@@ -2,7 +2,7 @@ const Navbar = ({ setCategory }) => {
   return (
     <nav className="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
       <div className="container-fluid">
-        <a className="navbar-brand" ><span className="badge bg-light text-dark fs-4">NEWS.in</span></a>
+        <a className="navbar-brand" ><span className="badge bg-light text-dark fs-4">NEWS</span></a>
         <button
           className="navbar-toggler"
           type="button"
